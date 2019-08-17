@@ -29,7 +29,7 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@yash040695/a-look-into-developers-insight-768d08a1cc7?source=friends_link&sk=fcf0b898eb38f2acfa36c241907dc989).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
